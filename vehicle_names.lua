@@ -18,6 +18,10 @@ local entries = {
     -- Ford
     ['honda'] = 'Honda',
     ['na1'] = 'NSX-R',
+
+    -- Aston Martin
+    ['astonmartin'] = 'Aston Martin',
+    ['db11'] = 'DB11',
     
 }
 
