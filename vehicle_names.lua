@@ -14,6 +14,10 @@ local entries = {
     -- Ford
     ['ford'] = 'Ford',
     ['mgt'] = 'Mustang GT',
+
+    -- Ford
+    ['honda'] = 'Honda',
+    ['na1'] = 'NSX-R',
     
 }
 

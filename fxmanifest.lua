@@ -28,3 +28,7 @@ data_file 'AUDIO_WAVEPACK' 'audio/sfx/dlc_aqtoy2jzstock'
 data_file 'AUDIO_GAMEDATA' 'audio/config/aq10nisvr38dett_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audio/config/aq10nisvr38dett_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'audio/sfx/dlc_aq10nisvr38dett'
+
+data_file 'AUDIO_GAMEDATA' 'audio/config/rotary7_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audio/config/rotary7_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'audio/sfx/dlc_rotary7'
