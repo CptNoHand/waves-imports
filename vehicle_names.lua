@@ -10,6 +10,10 @@ local entries = {
     -- Nissan
     ['nissan'] = 'Nissan',
     ['r35'] = 'GT-R',
+
+    -- Ford
+    ['ford'] = 'Ford',
+    ['mgt'] = 'Mustang GT',
     
 }
 
