@@ -24,3 +24,7 @@ data_file 'VEHICLE_VARIATION_FILE' 'data/**/carvariations.meta'
 data_file 'AUDIO_GAMEDATA' 'audio/config/aqtoy2jzstock_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audio/config/aqtoy2jzstock_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'audio/sfx/dlc_aqtoy2jzstock'
+
+data_file 'AUDIO_GAMEDATA' 'audio/config/aq10nisvr38dett_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audio/config/aq10nisvr38dett_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'audio/sfx/dlc_aq10nisvr38dett'

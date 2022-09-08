@@ -6,6 +6,10 @@ local entries = {
     -- Toyota
     ['mazda'] = 'Mazda',
     ['fd'] = 'RX-7',
+
+    -- Nissan
+    ['nissan'] = 'Nissan',
+    ['r35'] = 'GT-R',
     
 }
 
