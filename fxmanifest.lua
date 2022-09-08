@@ -32,3 +32,7 @@ data_file 'AUDIO_WAVEPACK' 'audio/sfx/dlc_aq10nisvr38dett'
 data_file 'AUDIO_GAMEDATA' 'audio/config/rotary7_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audio/config/rotary7_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'audio/sfx/dlc_rotary7'
+
+data_file 'AUDIO_GAMEDATA' 'audio/config/tagt3flat6_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audio/config/tagt3flat6_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'audio/sfx/dlc_tagt3flat6'
