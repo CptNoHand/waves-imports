@@ -21,6 +21,6 @@ data_file 'CARCOLS_FILE' 'data/**/carcols.meta'
 data_file 'VEHICLE_VARIATION_FILE' 'data/**/carvariations.meta'
 
 -- Vehicle Sound Data
---data_file 'AUDIO_GAMEDATA' 'audio/config/aqtoy2jzstock_game.dat'
---data_file 'AUDIO_SOUNDDATA' 'audio/config/aqtoy2jzstock_sounds.dat'
---data_file 'AUDIO_WAVEPACK' 'audio/sfx/dlc_aqtoy2jzstock'
+data_file 'AUDIO_GAMEDATA' 'audio/config/aqtoy2jzstock_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audio/config/aqtoy2jzstock_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'audio/sfx/dlc_aqtoy2jzstock'
