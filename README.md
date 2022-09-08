@@ -1,6 +1,8 @@
 # waves-imports
 A curated resource of FiveM ready vehicles.
 
+- Like my work? consider a donation: https://ko-fi.com/waves966
+
 ## Vehicle Models
 
 ### Aston Martin
