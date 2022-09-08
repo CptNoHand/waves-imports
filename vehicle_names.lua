@@ -22,6 +22,10 @@ local entries = {
     -- Aston Martin
     ['astonmartin'] = 'Aston Martin',
     ['db11'] = 'DB11',
+
+    -- McLaren
+    ['mclaren'] = 'McLaren',
+    ['570s'] = '570S',
     
 }
 
