@@ -36,3 +36,7 @@ data_file 'AUDIO_WAVEPACK' 'audio/sfx/dlc_rotary7'
 data_file 'AUDIO_GAMEDATA' 'audio/config/tagt3flat6_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audio/config/tagt3flat6_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'audio/sfx/dlc_tagt3flat6'
+
+data_file 'AUDIO_GAMEDATA' 'audio/config/aqls7raceswap_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audio/config/aqls7raceswap_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'audio/sfx/dlc_aqls7raceswap'

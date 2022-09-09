@@ -8,6 +8,9 @@ A curated resource of FiveM ready vehicles.
 ### Aston Martin
 - Aston Martin DB11 (db11): https://www.gta5-mods.com/vehicles/17-aston-martin-db11-hq
 
+### Chevrolet
+- Chevrolet Corvette C7 (c7): https://www.gta5-mods.com/vehicles/2014-chevrolet-corvette-c7-stingray-aige
+
 ### Ford
 - Ford Mustang (mgt): https://www.gta5-mods.com/vehicles/2015-ford-mustang-gt
 
@@ -34,4 +37,5 @@ A curated resource of FiveM ready vehicles.
 - Mazda RX-7 Spirit R: https://www.gta5-mods.com/vehicles/mazda-rx-7-13b-rotary-engine-sound-oiv-add-on-fivem
 - Porsche 911-R/GT3: https://www.gta5-mods.com/vehicles/porsche-911-gt3-rs-engine-sound-oiv-add-on-fivem
 - Nissan GTR: https://www.gta5-mods.com/vehicles/nissan-gt-r-vr38dett-v6-engine-sound-oiv-add-on-fivem-sound
+- Chevrolet Corvette C7: https://www.gta5-mods.com/vehicles/racing-ls-v8-engine-sound-oiv-add-on-fivem-sound
 
