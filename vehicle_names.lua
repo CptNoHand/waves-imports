@@ -27,9 +27,13 @@ local entries = {
     ['mclaren'] = 'McLaren',
     ['570s'] = '570S',
 
-    -- McLaren
+    -- Porsche
     ['porsche'] = 'Porsche',
     ['911r'] = '911 GT3 RS',
+
+    -- Chevrolet
+    ['chevrolet'] = 'Chevrolet',
+    ['c7'] = 'Corvette C7',
     
 }
 
